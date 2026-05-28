@@ -1,0 +1,11 @@
+# groq
+# SpeechRecognition
+# PyAudio
+# pyttsx3
+# python-dotenv
+# streamlit
+streamlit
+groq
+python-dotenv
+SpeechRecognition
+gtts
